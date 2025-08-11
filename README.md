@@ -60,10 +60,10 @@ We want to create a **large dataset** of prices for these products, computed und
 Then compute the **spread** between them:
 
 - **Absolute spread:**  
-  \[ y = \sigma_{sto} - \sigma_{loc} \]
+  $$\[ y = \sigma_{sto} - \sigma_{loc} \]$$
 
 - **Relative spread:**  
-  \[ y = \frac{\sigma_{sto} - \sigma_{loc}}{\sigma_{loc}} \]
+  $$\[ y = \frac{\sigma_{sto} - \sigma_{loc}}{\sigma_{loc}} \]$$
 
 ### Why?
 - The spread is **systematic**: certain market conditions make VolLoc consistently over/under-price relative to VolSto.
